@@ -25,4 +25,7 @@ local/
 .pydevproject
 .DS_Store
 
-
+pretix.cfg.bak
+var/
+redis_data/
+postgres_data/
